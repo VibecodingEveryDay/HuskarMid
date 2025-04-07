@@ -1,4 +1,5 @@
 ![wallaper_for_github1](https://github.com/user-attachments/assets/d2be3b16-22f2-47ae-9e2e-345482381f1c)
+<hr>
 
 
 
