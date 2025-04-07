@@ -1,4 +1,5 @@
-![wallaper_for_github](https://github.com/user-attachments/assets/29d624ae-6293-44b2-bbd3-5d8e7f914741)
+![wallaper_for_github](https://github.com/user-attachments/assets/764e0482-dda5-436c-9010-47daa44fe2a5)
+
 
 <!--
 **HuskarMid/HuskarMid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
