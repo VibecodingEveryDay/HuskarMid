@@ -2,7 +2,7 @@
 <hr>
 <h1>I'm a front-end programmer</h1>
 <hr>
-My libraries/frameworks:
+<h1>My libraries/frameworks:</h1>
 <hr>
 <h1>My projects:</h1>
 
