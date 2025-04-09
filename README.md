@@ -1,5 +1,5 @@
-![f![wallaper_for_github1](https://github.com/user-attachments/assets/3ada0b9e-e21d-46b5-8724-43389c2d103c)
-or_gh_luffy_2](https://github.com/user-attachments/assets/c155d175-c90d-45fc-8676-c504c9c28a66)
+![wallaper_for_github1](https://github.com/user-attachments/assets/3ada0b9e-e21d-46b5-8724-43389c2d103c)
+![for_gh_luffy_2](https://github.com/user-attachments/assets/c155d175-c90d-45fc-8676-c504c9c28a66)
 
 <hr>
 
