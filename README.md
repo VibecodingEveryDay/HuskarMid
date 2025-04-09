@@ -1,5 +1,6 @@
 ![PSD_wallaper_for_github_5555](https://github.com/user-attachments/assets/1bc25199-13b1-4bba-bdc0-be707bfe9559)
-![for_gh_luffy_2](https://github.com/user-attachments/assets/c155d175-c90d-45fc-8676-c504c9c28a66)
+![for_gh_luffy_3](https://github.com/user-attachments/assets/5baa0612-672a-4a25-9d7a-79bd0c238608)
+
 
 
 <h1>My projects:</h1>
