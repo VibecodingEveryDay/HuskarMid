@@ -3,7 +3,6 @@
 ![for_gh_luffy_2](https://github.com/user-attachments/assets/25ad3acc-32ff-4881-a282-cd7c178d2a72)
 
 
-<h1>My projects:</h1>
 
 
 
