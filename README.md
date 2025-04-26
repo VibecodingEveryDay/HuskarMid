@@ -1,6 +1,6 @@
 
 ![final_for_github1](https://github.com/user-attachments/assets/60c90fc6-4404-404e-a8bf-eaf049dfc57c)
-![final_for_github2 0](https://github.com/user-attachments/assets/6d7150af-8f9e-4464-8483-18a4c70d85be)
+![for_gh_luffy_2 1](https://github.com/user-attachments/assets/06398bf6-b2b5-4030-b62c-60a2e829f1e7)
 
 
 
