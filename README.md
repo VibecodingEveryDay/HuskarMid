@@ -1,8 +1,6 @@
 
-![PSD_wallaper_for_github](https://github.com/user-attachments/assets/d123d073-9c4b-482c-99e3-41d3edac3f86)
-![for_gh_luffy_2](https://github.com/user-attachments/assets/25ad3acc-32ff-4881-a282-cd7c178d2a72)
-
-
+![final_for_github1](https://github.com/user-attachments/assets/60c90fc6-4404-404e-a8bf-eaf049dfc57c)
+![final_for_github2](https://github.com/user-attachments/assets/2848c2eb-4e02-4d75-95d7-edda471a3d7b)
 
 
 
