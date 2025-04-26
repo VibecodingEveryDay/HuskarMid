@@ -1,6 +1,6 @@
 
 ![final_for_github1](https://github.com/user-attachments/assets/60c90fc6-4404-404e-a8bf-eaf049dfc57c)
-![final_for_github2](https://github.com/user-attachments/assets/2848c2eb-4e02-4d75-95d7-edda471a3d7b)
+![final_for_github2 0](https://github.com/user-attachments/assets/6d7150af-8f9e-4464-8483-18a4c70d85be)
 
 
 
