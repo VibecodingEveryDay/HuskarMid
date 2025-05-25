@@ -4,6 +4,14 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HuskarMid/HuskarMid/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HuskarMid/HuskarMid/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/HuskarMid/HuskarMid/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 <!--
 **HuskarMid/HuskarMid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
